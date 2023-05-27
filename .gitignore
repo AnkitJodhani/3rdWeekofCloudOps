@@ -3,3 +3,6 @@
 
 book_shop_app/*terraform
 book_shop_app/*.tfvars
+
+modules/key/client_key
+modules/key/client_key.pub
